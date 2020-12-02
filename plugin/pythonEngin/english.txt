@@ -1,0 +1,5 @@
+dll=pythonEngin.dll
+author=Simpower
+description=support log.py(Python) script to process the logs. python install is needed for import json.
+weight=3
+gui=

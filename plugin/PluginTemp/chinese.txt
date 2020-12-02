@@ -1,0 +1,5 @@
+dll=PFWPlugin.dll
+author=Simpower
+description=插件模板生成（C++语法）
+weight=1
+gui=

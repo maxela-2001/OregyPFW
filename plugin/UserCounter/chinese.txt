@@ -1,0 +1,5 @@
+dll=counter.dll
+author=Simpower
+description=用户体验计划，统计本软件功能使用频率，启用本插件可以帮助我们做好产品！
+weight=1
+gui=

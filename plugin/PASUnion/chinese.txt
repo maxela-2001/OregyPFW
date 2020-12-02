@@ -1,0 +1,5 @@
+dll=pasunion.dll
+author=Simpower
+description=流量分析联动插件，可以将流量信息上报至安天PAS或PTD，也可通过cfg.txt联动其他中控或分析系统。
+weight=1
+gui=

@@ -1,0 +1,5 @@
+dll=logRecord.dll
+author=Simpower
+description=日志记录插件，同时提供全日志查询图形界面
+weight=130
+gui=logmgr.exe

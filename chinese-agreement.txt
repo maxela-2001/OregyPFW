@@ -1,0 +1,647 @@
+﻿<html>
+
+<head>
+<script>
+remoteAgreement=sardinetools.com:8088/actionscope/down/pfw/chinese-agreement.txt
+remoteAgreementCDN=sardinetools.com:8088,iepupdate.antiy.cn
+</script>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:黑体;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:等线;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:微软雅黑;
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@微软雅黑";}
+@font-face
+	{font-family:"\@黑体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@等线";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:等线;}
+h2
+	{mso-style-link:"标题 2 字符";
+	margin-top:13.0pt;
+	margin-right:0cm;
+	margin-bottom:13.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:172%;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Arial",sans-serif;
+	font-weight:bold;}
+h3
+	{mso-style-link:"标题 3 字符";
+	margin-top:13.0pt;
+	margin-right:0cm;
+	margin-bottom:13.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:172%;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:等线;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:宋体;}
+span.2
+	{mso-style-name:"标题 2 字符";
+	mso-style-link:"标题 2";
+	font-family:"Arial",sans-serif;
+	font-weight:bold;}
+span.3
+	{mso-style-name:"标题 3 字符";
+	mso-style-link:"标题 3";
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;
+	font-family:等线;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body lang=ZH-CN link=blue vlink="#954F72" style='text-justify-trim:punctuation'>
+
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<p align=center style='margin:0cm;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif'>安世盾实验室最终用户许可协议（以下简称“许可协议”）；</span></b></p>
+
+<p align=center style='margin:0cm;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif'>产品和服务隐私政策</span></b></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>在开始使用该软件之前，请仔细阅读以下许可协议。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>要签订本许可协议，您必须是成年人。如果您是孩子，您必须要求您的父母或合法监护人阅读并接受本许可协议。父母或负有父母责任的持有人必须代表您接受本许可协议，并对根据本许可协议条款强加给最终用户的所有义务承担全部责任。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>通过运行软件，或单击按钮表示您接受包含许可协议的窗口，或输入相应的符号，即表示您是成人，并且表示您同意本协议或本协议中的内容根据本许可协议的条款，对最终用户承担的所有义务承担全部责任。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>同时，运行软件，或单击按钮以表明您接受包含许可协议的窗口，或输入相应的符号表示您无条件地接受本许可协议中所涉及的条款和条件。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>如果您不同意本许可协议的条款或您不是成年人，您必须中止安装软件和<span
+lang=EN-US>/</span>或删除软件。</span></p>
+
+<h2><span lang=EN-US>A. </span><span style='font-family:黑体'>总则</span></h2>
+
+<h3><span lang=EN-US>1. </span>定义</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>1.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>软件是指包括任何更新和相关资料的软件。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>1.2.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>权利人（软件的专有权或其他权利的所有人）是指安世盾实验室，根据中华人民共和国法律注册成立的公司。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>1.3.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>计算机是指硬件，包括个人计算机、便携式计算机、工作站、个人数字助理，“智能电话”、手持设备或为其设计和安装了软件的其他电子设备。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>1.4.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>最终用户（您<span
+lang=EN-US>/</span>您的）是指代表自己安装或使用本软件或合法使用本软件副本的个人；或者，如果代表某个组织（例如，雇主）下载或安装该软件，则“您”还表示已为其下载或安装该软件的组织，并在此表示，该组织已授权接受此软件的人同意代表它这样做。为此，术语“组织”包括但不限于任何合伙、有限责任公司、公司、协会、股份公司、信托、合资企业、劳工组织、非法人组织或政府机构。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>1.5.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>合作伙伴是指根据与权利持有人达成的协议和许可分发软件的组织或个人。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>1.6.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>用户手册包括用户手册、管理员指南、参考书和相关说明或其他材料。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>2. </span>授权许可</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>2.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>您被授予存储、加载、安装、执行和显示（“使用”）软件的非排他性许可，以帮助保护安装了该软件的计算机免受以下在用户手册中描述的威胁，根据用户手册中所述的所有技术要求，并根据本协议的条款和条件（“许可”），您接受本许可。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>2.2.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>被许可方有权复制和分发该软件，将使用权转让给第三方，并有权使用该软件恢复第三方计算机的可操作性，包括商业利益。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>3. </span>激活和期限</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>3.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>您接受本协议后，可以免费、无时间限制地使用本软件。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>3.2.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>在不损害权利人在法律或衡平法上可能享有的任何其他措施的情况下，如果您违反本协议的任何条款和条件，则权利人有权随时终止本许可，而无需通知您。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>4. </span>技术支持</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>4.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>该软件的技术支持仅适用于权利人的商业产品的用户。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>4.2.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>根据论坛的规则，可以在<span
+lang=EN-US>http://www.sardinetools.com</span>上获得产品咨询。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>4.3.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>可在<span
+lang=EN-US>sardinetools@gmail.com</span>上与我们联系。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US>&nbsp;</span></p>
+
+<h3><span lang=EN-US>5. </span>使用须知</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>5.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>不可模仿、克隆、出租、出借、租赁、出售、修改、反编译或反向工程该软件，也不得基于该软件或其任何部分分解或创建衍生作品，唯一的例外是授予不可放弃的权利根据适用法律授予您，并且您不得以其他方式将本软件的任何部分简化为易于阅读的形式或转让许可软件或许可软件的任何子集，也不得允许任何第三方这样做，除非适用法律明确禁止上述限制。该软件的二进制代码或源代码均不得使用或进行逆向工程来重新创建专有的程序算法。如适用，版权所有者和<span
+lang=EN-US>/</span>或其供应商保留此处未明确授予的所有权利。对软件的任何此类未经授权的使用将导致本协议和本协议下授予的许可立即自动终止，并可能导致对您的刑事和<span
+lang=EN-US>/</span>或民事起诉。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>5.2.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>您不得将软件出租、租赁或出借给任何第三方。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>5.3.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>在创建用于检测、阻止或处理用户手册中描述的威胁的数据或软件时，您不得使用本软件。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>5.4.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>该软件不得分发给，与安世盾实验室无关的商业软件产品使用。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>5.5.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>违反本软件的知识产权应依法承担民事、行政或刑事责任。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>6. </span>有限保证和免责声明</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>6.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>权利持有人保证，软件将基本上按照用户手册中规定的规格和说明运行，但是，这种有限保证不适用于以下情况：（<span
+lang=EN-US>w</span>）您的计算机的漏洞和相关侵权，权利持有人明确声明不承担任何保证责任；（<span lang=EN-US>x</span>）由于误用造成的故障、缺陷或停用；滥用；事故；忽视；安装、操作或维护不当；盗窃；破坏公物；不可抗力；恐怖主义行为；电力故障或电涌；伤亡；除权利人以外的任何一方的变更、不允许的修改或修理；或任何第三方或您的行为或原因超出权利人合理控制的；（<span
+lang=EN-US>y</span>）漏洞首次出现后，您尽快告知权利人的任何缺陷； （<span lang=EN-US>z</span>）由您的计算机上安装的硬件和<span
+lang=EN-US>/</span>或软件组件引起的不兼容。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>6.2.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>您承认、接受并同意没有软件是无错误的，并建议您以适合您的频率和可靠性备份计算机。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>6.3.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>如果违反了《用户手册》或本协议中所述的条款，权利人不提供任何关于本软件将正常运行的保证。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>6.4.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>该软件并非旨在永久保护计算机免受威胁。有关软件的更新版本，请访问权利人的网站。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>6.5.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>如《用户手册》所述，以手动方式为电脑杀毒，可能会导致文件遗失及电脑无法运作。
+</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>6.6.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>该软件按“原样”提供，且权利人不代表其使用或性能，也不提供任何担保。除任何担保、条件限定、陈述或期限外，适用法律不排除或限制其范围。权利持有人及其合作伙伴对任何事项均不作任何担保、条件限定、陈述或期限（无论是法律、普通法、习惯、使用或其他方式的明示或暗示的），包括但不限于，不侵犯第三者的权利、适销性、令人满意的质量、集成性或特定用途的适用性。您承担所有故障，并承担选择软件以实现预期结果以及安装、使用和从软件获得的结果的责任和全部风险。在不限制上述规定的前提下，权利持有者不作任何陈述，也不提供软件将不会出错或没有中断或其他故障，或者软件将满足您或您所要求的全部或全部权利的保证。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>7. </span>免责和责任限制</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>7.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>在适用法律允许的最大范围内，权利人或其合作伙伴在任何情况下均不对任何特殊、偶发、惩罚性、间接或继发性损害承担任何责任（包括（但不限于）损害利润或利益损失，其他信息，包括业务中断、私密性损失、数据、程序的损坏、损失；未能履行任何义务，包括法定义务、善意义务或合理责任的义务；过失，经济损失）。因使用或无法使用该软件，提供或无法提供支持或其他服务、信息、软件及相关内容而导致的任何方式或以任何方式引起的任何其他个人或其他损失，或因使用本软件而产生的其他任何形式，或根据本协议的任何规定或与之相关的任何其他形式，或因违反任何合同或侵权行为（包括<span
+lang=EN-US>NEGL</span>）而引起的知情权、错误陈述、任何严格的责任义务，或违反法定义务或对权利人或其任何合伙人的任何担保，即使是经过权利人或任何合伙人的建议。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>您同意，在发现权利人和<span
+lang=EN-US>/</span>或其合作伙伴有责任的情况下，权利人和<span lang=EN-US>/</span>或其合作伙伴的责任应由软件的费用来限制。在任何情况下，权利人和<span
+lang=EN-US>/</span>或其合作伙伴的责任均不会超过向权利人或合作伙伴支付的软件费用（如适用）。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>本协议中的任何内容均不排除或限制对死亡和人身伤害的任何索赔。此外，在任何情况下，根据适用法律，均不能排除或限制本协议，仅此免责，排除或限制对您不适用，并且您将继续受到所有剩余免责声明的约束
+。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>8. GNU</span>和其他第三方许可</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>8.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>本软件可能包含一些根据<span
+lang=EN-US>GNU</span>通用公共许可（<span lang=EN-US>GPL</span>）或其他类似的自由软件许可向用户许可（或再许可）的软件程序，这些许可，允许用户复制、修改和重新分发某些程序，
+或其部分内容，并可以访问源代码“开源软件”）。如果此类许可证要求以可执行二进制格式分发给某人的任何软件，还要求这些用户也可以使用源代码，则应通过将请求发送到<span
+lang=EN-US>sardinetools@gmail.com</span>使源代码可用。 或源代码随软件一起提供。如果任何开源软件许可要求权利人提供使用、复制或修改比本协议授予的权利更广泛的开源软件程序的权利，则该权利应优先于此处的权利和限制。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>9. </span>知识产权所有权</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>9.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>您同意本软件以及本软件中的作者、系统、想法、操作方法、文档和其他信息是专有知识产权和<span
+lang=EN-US>/</span>或权利持有人或其合作伙伴以及权利持有人及其合作伙伴的宝贵商业秘密，如果适用，则受到民法和刑法以及中华人民共和国、欧盟和美国以及其他国家和国际条约的版权、商业秘密、商标和专利法的保护。本协议不授予您任何知识产权权利，包括权利持有人和<span
+lang=EN-US>/</span>或其合作伙伴的任何商标或服务标记（“商标”）。您只能使用商标来识别软件根据公认的商标惯例（包括商标所有人名称的识别）产生的打印输出。对任何商标的这种使用不会给您该商标的任何所有权。权利持有人和<span
+lang=EN-US>/</span>或其合作伙伴拥有并保留对软件的所有权利和利益，包括但不限于对软件的任何错误更正、增强、更新或其他修改，无论是权利持有人还是任何第三方做出的，以及其中的所有版权、专利、商业秘密权、商标和其他知识产权。您进行安装或使用本软件的所属不会向您转让该软件中知识产权的任何所有权，除非本协议明确规定，否则您不会获得该软件的任何权利。根据本协议制定的所有软件副本都必须包含与本软件上及其中相同的专有声明。除非本协议中另有规定，否则本协议不会授予您软件的任何知识产权，并且您承认根据本协议授予的本许可中进一步定义的许可仅向您提供本协议条款和条件下的有限使用权、协议。权利持有者保留本协议未明确授予您的所有权利。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>9.2.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>您同意不以任何方式修改或更改软件。您不得删除或更改本软件任何副本上的任何版权声明或其他专有声明。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><a name="OLE_LINK1"><span lang=EN-US>10. </span>适用法律</a></h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>除非下文第<span
+lang=EN-US>10.2</span>和<span lang=EN-US>10.3</span>条另有规定，否则本协议应受以下针对您获得软件的国家或地区所指定的法律的管辖和解释，不涉及或不遵循法律冲突原则：</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>a.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>俄国。如果您在俄罗斯获得了该软件，请遵循俄罗斯联邦的法律。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>b.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>美国、波多黎各、美属萨摩亚、关岛和美属维尔京群岛。如果您是在美国、波多黎各、美属萨摩亚、关岛或美属维尔京群岛获得软件的，则美国马萨诸塞州联邦的法律规定，您居住的美国州的法律将管辖索赔。受国家消费者保护，不正当竞争或类似法律的约束。在法律允许的最大范围内，权利人和您在此明确同意放弃由陪审团审判的任何权利。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>c.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>加拿大。如果您在加拿大获得了该软件，请遵循安大略省的法律。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>d.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>墨西哥。如果您在墨西哥获得了该软件，则应遵循墨西哥共和国的联邦法律。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>e.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>欧盟（<span
+lang=EN-US>EU</span>）。如果您在欧盟成员国中获得该软件，请遵循英国法律。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>f.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>澳大利亚。如果您在澳大利亚获得了该软件，则应遵守获得许可的所在州或领地的法律。<span
+lang=EN-US>g. </span>中国。如果您在中华人民共和国获得本软件，则应遵守中华人民共和国法律。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>h.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>中国香港特别行政区（<span
+lang=EN-US>SAR</span>）和澳门特备行政区。如果您在香港特别行政区或澳门特别行政区获得了该软件，请遵守香港特别行政区的法律。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>i.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>中国台湾。如果您在台湾获得本软件，则应遵守台湾法律。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>j.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>日本。如果您在日本获得本软件，请遵守日本法律。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>k.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>任何其他国家或地区。如果您选择在其他国家<span
+lang=EN-US>/</span>地区购买软件，则购买所在国家<span lang=EN-US>/</span>地区的实体法律将生效。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>10.2.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>尽管有上述规定，但在执行或解释本协议的任何国家或地区的强制性法律或公共政策禁止实施此处指定的法律，则该国家或地区的法律应在此类国家或地区要求的范围内适用强制性法律或公共政策。同样，如果您是个人消费者，则第<span
+lang=EN-US>14.1</span>条的规定不会影响您可能必须根据该国法律在您居住国采取行动的任何强制性权利。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>10.3.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>本协议不受《联合国国际货物销售合同公约》的管辖，该公约的适用范围被明确排除在外。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>10.4.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>如果产品有任何问题，最终用户仅负责直接联系权利持有人或其合作伙伴。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>11. </span>起诉期限<span style='font-size:10.5pt;line-height:
+172%;font-family:"微软雅黑",sans-serif'> </span></h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>11.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>诉讼因由发生或被发现一年以上，任何一方均不得就本协议下的交易产生的任何形式的诉讼，除了可能在适用的最大法定期限内提起的侵犯知识产权的诉讼。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>12. </span>整体协议、条款的可分割性、非豁免</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>12.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>本协议是您与权利持有人之间的完整协议，并取代任何其他先前关于软件或本协议主题的口头或书面协议、建议、通信或广告。您已阅读本协议，理解并同意受其约束。如果具有管辖权的法院出于任何原因认定本协议的任何条款全部或部分无效，无效或不可执行，则将更狭义地解释该条款，以使其合法并可执行。协议不会因此而失败，并且协议的其余部分将在法律或权益允许的最大范围内继续充分发挥作用，同时尽可能最大程度地保留其原始意图。对本协议中任何条款或条件的豁免均无效，除非您和权利人的授权代表以书面形式签字，但对任何违反本协议任何条款的豁免均不构成对任何先前、同时或随后违约行为的豁免。
+权利人未坚持或严格执行本协议的任何规定或权利，不应解释为放弃任何此类条款或权利。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>13. </span>集体诉讼豁免和有约束力的仲裁</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>13.1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>如果您居住在美国，则本第<span
+lang=EN-US>13</span>条适用于您。如果您与安世盾实验室或您与安世盾实验室的第三方关联公司之间发生任何与安世盾实验室产品、服务或本协议任何部分有关的纠纷、主张或争议，无法在合理的时间内非正式解决争议，您和另一方同意根据联邦仲裁法（<span
+lang=EN-US>FAA</span>）的规定，向美国仲裁协会（<span lang=EN-US>AAA</span>）提出具有约束力的个人仲裁，并且不能在法官或陪审团面前提起诉讼。不允许进行任何诉讼，包括但不限于集体诉讼、集体仲裁、私人总检察长诉讼、未经各方同意的个人诉讼合并，或某人以代表身份行事的任何其他法律程序。通过接受本协议，您同意不开始或参与上述任何类别和多方诉讼，并且您所采取的任何行动和补救措施（如果有任何授予您的措施）必须基于本条款规定的个人基础。如果当事各方之间进行具有约束力的个人仲裁程序，则中立仲裁员将做出决定，且仲裁员的决定将是最终决定，但根据<span
+lang=EN-US>FAA</span>提出的有限上诉权除外。如果本协议与<span lang=EN-US>AAA</span>规则之间存在任何冲突，则以本协议为准。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>13.2.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>关于安世盾实验室的知识产权，其执行、有效性等的任何争议、索赔或争议，以及关于任何未经授权的使用（包括但不限于盗窃和盗版）安世盾实验室产品或服务的任何形式的索赔，均不受本仲裁条款的约束。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<h3><span lang=EN-US>14. </span>权利人联系信息</h3>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>如对本协议有任何疑问，或因任何原因需要与权利人联系，请通过以下方式与我们的客户服务部联系：</span></p>
+
+<p class=MsoNormal align=left style='text-align:left'><span style='font-family:
+"微软雅黑",sans-serif'>全国服务热线：<span lang=EN-US>400-840-9234 </span></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>售后支持邮箱：</span><span
+lang=EN-US><a href="mailto:support@antiy.cn"><span style='font-size:10.5pt;
+font-family:"微软雅黑",sans-serif;color:windowtext;text-decoration:none'>support@antiy.cn</span></a></span></p>
+
+<p class=MsoNormal align=left style='text-align:left'><span style='font-family:
+"微软雅黑",sans-serif'>地址：北京市海淀区闵庄路<span lang=EN-US>3</span>号清华科技园玉泉慧谷一期<span
+lang=EN-US>1</span>号楼 </span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>邮编：<span
+lang=EN-US>150028</span></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>网页：<span
+lang=EN-US>http://www.sardinetools.com</span></span></p>
+
+<h2><span lang=EN-US>B. </span><span style='font-family:黑体'>关于数据处理的条件</span></h2>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>请阅读“关于数据处理的条件”部分的条件。本节描述了从您或您的计算机接收到的数据，以及权利人将为执行本许可协议而处理数据的方式。如果在一个法人实体内或在多个人使用的计算机上使用本软件，则在使用本软件之前，您必须确保他们已经理解并接受“关于数据处理的条件”部分的条件。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>1.
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>对于权利人和<span
+lang=EN-US>/</span>或其合作伙伴履行其在本许可协议项下的义务，被许可方需要接收和处理第<span lang=EN-US>B</span>条第<span
+lang=EN-US>1</span>款中所述的用于声明目的的信息。根据某些国家的适用法律，这些信息可能被视为个人信息。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&#8226;
+为您提供获得的软件的核心功能。如用户手册所述，软件的核心功能是在使用计算机期间提供安全性。为了提供这一核心功能，在您使用软件时，权利人必须从您的设备接收并处理有关已安装的软件、获得的许可、扫描的对象、检测到的计算机上的威胁和感染、有关计算机及其连接设备的信息，具体如下<span
+lang=EN-US>: </span></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>权利持有人软件的信息：其完整版本、软件标识符、类型、语言环境和操作状态，已安装软件组件的版本及其操作状态，有关已安装更新的信息，用于与权利持有人的连接的协议版本服务，在计算机上安装软件的唯一标识符；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>有关计算机上安装的软件的信息：软件应用程序和软件供应商的名称，它们的运行状态，注册表项及其值，有关已安装软件组件的文件的信息（校验和（<span
+lang=EN-US>MD5</span>、<span lang=EN-US>SHA2-256</span>、<span lang=EN-US>SHA1</span>）、名称、计算机上文件的路径、大小、版本和数字签名）；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>有关扫描对象、检测到的对象和漏洞的信息：对象名称、大小及其校验和（<span
+lang=EN-US>MD5</span>、<span lang=EN-US>SHA2-256</span>）、计算机上对象的完整路径、路径模板的代码、文件类型代码、文件格式标识符、可执行文件标志、扫描任务的标识符、信誉验证或文件签名验证的标志、根据权利人的分类检测到的威胁的名称、漏洞数据库中的漏洞<span
+lang=EN-US>ID</span>、漏洞危险等级、防病毒数据库该软件用于确定防病毒数据库记录的决定、版本和类型，以及计算机上安装的最新防病毒数据库更新的日期和时间；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>有关计算机安全扫描的信息：自动启动并成功完成扫描的迹象、扫描进度图标、类型、扫描结果；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>如果检测到潜在的恶意对象，则会提供有关进程内存中数据的信息：系统对象层次结构（对象管理器）的元素、<span
+lang=EN-US>UEFI BIOS</span>内存中的数据、注册表项的名称及其值；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>系统日志中有关事件的信息：事件的时间戳、找到事件的日志的名称、事件的类型和类别、事件的来源名称以及事件的描述；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>上次操作系统重启失败的信息：自操作系统安装以来重启失败的次数；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>有关计算机上安装的硬件的信息：类型、名称、型号名称、固件版本、内置和连接的设备的参数、具有已安装软件的计算机的唯一标识符；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>有关操作系统版本和已安装更新的信息、字大小、操作系统运行模式的版本和参数、操作系统内核文件的版本和校验和（<span
+lang=EN-US>MD5</span>、<span lang=EN-US>SHA2-256</span>、<span lang=EN-US>SHA1</span>）的信息；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>有关正在运行的应用程序及其模块的信息：有关系统上正在运行的进程的数据（进程<span
+lang=EN-US>ID</span>、<span lang=EN-US>PID</span>）、进程名称、有关启动该进程的帐户的信息、启动该进程的应用程序和命令、受信任程序的标志或流程、流程文件的完整路径、启动命令行、流程完整性级别、对该流程所属产品的描述（产品名称和有关发布者的信息）以及数字正在使用的证书以及验证其真实性所需的信息或有关文件数字签名缺失的信息，以及有关加载到进程中的模块的信息（它们的名称、大小、类型、创建日期、属性、校验和（<span
+lang=EN-US>MD5</span>、<span lang=EN-US>SHA2-256</span>、<span lang=EN-US>SHA1</span>）、它们在计算机上的路径、<span
+lang=EN-US>PE</span>文件头信息、打包程序的名称（如果文件已打包）；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>有关网络连接的信息：启动打开端口的进程的文件的版本和校验和（<span
+lang=EN-US>MD5</span>、<span lang=EN-US>SHA2-256</span>、<span lang=EN-US>SHA1</span>）、进程文件的路径及其数字签名、本地和远程<span
+lang=EN-US>IP</span>地址、本地号和远程连接端口、连接状态、端口打开的时间戳；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>受信任的可执行文件、可疑的可执行文件、不可执行的文件或其部分；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>引导操作系统过程中涉及的扇区；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>计算机<span
+lang=EN-US>RAM</span>的一部分；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>网络流量数据包；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>包含可疑和恶意对象的网页和电子邮件；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+WMI</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>存储库的类的描述和类的实例；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>应用程序活动报告。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>此类应用程序活动报告包含有关文件和进程的以下数据：</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>发送文件的名称、大小和版本、其描述和校验和（<span
+lang=EN-US>MD5</span>、<span lang=EN-US>SHA2-256</span>、<span lang=EN-US>SHA1</span>）、文件格式标识符、文件供应商的名称、文件所属的产品名称、计算机、文件路径的模板代码、文件的创建和修改时间戳；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>证书有效期的开始和结束日期<span
+lang=EN-US>/</span>时间（如果文件具有数字签名）、签名的日期和时间、证书的颁发者的名称、有关证书持有者的信息、指纹、证书的公钥和适当的算法，以及证书的序列号；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>运行该进程的帐户的名称；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>运行该进程的计算机名称的校验和（<span
+lang=EN-US>MD5</span>、<span lang=EN-US>SHA2-256</span>、<span lang=EN-US>SHA1</span>）；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>过程窗口的标题；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>反病毒数据库的标识符，根据权利持有人的分类检测到的威胁的名称；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>有关已安装许可证、其标识符、类型和到期日期的数据；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>提供信息时计算机的本地时间；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>进程访问的文件的名称和路径；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>进程访问的注册表项的名称及其值；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>-
+</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>进程访问的<span
+lang=EN-US>URL</span>和<span lang=EN-US>IP</span>地址；</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:0cm'><span lang=EN-US style='font-size:10.5pt;
+font-family:"微软雅黑",sans-serif'>2. </span><span style='font-size:10.5pt;
+font-family:"微软雅黑",sans-serif'>如“数据处理条件”一节所述，如果您决定不提供权利持有人履行其在本许可协议项下的义务所需要的信息，则代表您不同意本许可协议的条件。在这种情况下，请中止安装和（或）删除软件。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:0cm'><span lang=EN-US style='font-size:10.5pt;
+font-family:"微软雅黑",sans-serif'>3. </span><span style='font-size:10.5pt;
+font-family:"微软雅黑",sans-serif'>当您通过本软件向权利持有人提供数据时，权利持有人将根据其隐私政策对数据进行处理，其中具体描述了权利持有人保护数据的方式、处理数据的位置以及您作为数据主体的权利。您可以在<span
+lang=EN-US>http://www.sardinetools.com/Products-and-Services-Privacy-Policy.html</span>找到并阅读完整内容。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&copy;
+2019</span><span style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>安世盾实验室。保留所有权利。本软件及其随附文档受版权法、国际版权条约以及其他知识产权法的保护。</span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-justify:
+inter-ideograph'><b><span lang=EN-US style='font-size:10.5pt;font-family:"微软雅黑",sans-serif'>&nbsp;</span></b></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>

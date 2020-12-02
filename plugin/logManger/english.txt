@@ -1,0 +1,5 @@
+dll=logRecord.dll
+author=Simpower
+description=log record, and provide GUI for full log query suport.
+weight=130
+gui=logmgr.exe

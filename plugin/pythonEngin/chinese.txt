@@ -1,0 +1,5 @@
+dll=pythonEngin.dll
+author=Simpower
+description=支持用log.py(Python)脚本来获取日志并进行处理，需要安装python环境，因为要import json等。
+weight=3
+gui=

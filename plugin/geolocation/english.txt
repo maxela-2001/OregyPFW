@@ -1,0 +1,5 @@
+dll=geo.dll
+author=Simpower
+description=Get geolocation of remote IP
+weight=128
+gui=

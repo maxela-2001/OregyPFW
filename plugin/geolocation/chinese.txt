@@ -1,0 +1,5 @@
+dll=geo.dll
+author=Simpower
+description=在线获取地理位置,用的人太多会Ddos封IP，造成查询失效，需要时启用，否则禁用
+weight=128
+gui=

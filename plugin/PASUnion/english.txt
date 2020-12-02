@@ -1,0 +1,5 @@
+dll=PASUnion.dll
+author=Simpower
+description=send log to antiy PAS/PTD, or other system by cfg.txt .
+weight=1
+gui=

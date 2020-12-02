@@ -1,0 +1,1094 @@
+﻿<html>
+
+<head>
+<script>
+remoteAgreement=sardinetools.com:8088/actionscope/down/pfw/english-agreement.txt
+remoteAgreementCDN=sardinetools.com:8088,iepupdate.antiy.cn
+</script>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:黑体;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:等线;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:微软雅黑;
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@微软雅黑";}
+@font-face
+	{font-family:"\@黑体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@等线";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:等线;}
+h2
+	{mso-style-link:"标题 2 字符";
+	margin-top:13.0pt;
+	margin-right:0cm;
+	margin-bottom:13.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:172%;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Arial",sans-serif;
+	font-weight:bold;}
+h3
+	{mso-style-link:"标题 3 字符";
+	margin-top:13.0pt;
+	margin-right:0cm;
+	margin-bottom:13.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:172%;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:等线;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:宋体;}
+span.2
+	{mso-style-name:"标题 2 字符";
+	mso-style-link:"标题 2";
+	font-family:"Arial",sans-serif;
+	font-weight:bold;}
+span.3
+	{mso-style-name:"标题 3 字符";
+	mso-style-link:"标题 3";
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;
+	font-family:等线;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body lang=ZH-CN link=blue vlink="#954F72" style='text-justify-trim:punctuation'>
+
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>SAFE-STONE LABS END USER LICENSE
+AGREEMENT (&quot;LICENSE AGREEMENT&quot;); AND</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>PRODUCTS AND SERVICES PRIVACY
+POLICY</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>PLEASE READ THE FOLLOWING LICENSE
+AGREEMENT CAREFULLY BEFORE YOU START USING THE SOFTWARE.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>TO ENTER INTO THIS LICENSE AGREEMENT,
+YOU MUST BE AN ADULT. IF YOU ARE A CHILD, YOU MUST ASK ONE OF YOUR PARENTS OR
+LEGAL GUARDIAN TO READ AND ACCEPT THIS LICENSE AGREEMENT FOR YOU. PARENT(S) OR
+HOLDER(S) OF PARENTAL RESPONSIBILITY MUST ACCEPT THIS LICENSE AGREEMENT ON YOUR
+BEHALF AND TAKE FULL RESPONSIBILITY FOR ALL OBLIGATIONS IMPOSED ON AN END USER
+PURSUANT TO THE TERMS OF THIS LICENSE AGREEMENT.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>BY RUNNING THE SOFTWARE, OR
+CLICKING THE BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THE
+LICENSE AGREEMENT, OR ENTERING CORRESPONDING SYMBOL(S) YOU REPRESENT THAT YOU
+ARE AN ADULT AND ARE EITHER ACCEPTING THIS LICENSE AGREEMENT ON BEHALF OF
+YOURSELF OR YOUR CHILD AND YOU TAKE FULL RESPONSIBILITY FOR ALL OBLIGATIONS
+IMPOSED ON AN END USER PURSUANT TO THE TERMS OF THIS LICENSE AGREEMENT.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>ALSO RUNNING THE SOFTWARE, OR
+CLICKING THE BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THE
+LICENSE AGREEMENT, OR ENTERING CORRESPONDING SYMBOL(S) CONSTITUTES YOUR
+UNCONDITIONAL ACCEPTANCE OF THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT
+AND ENTITLES YOU THE RIGHT TO USE THE SOFTWARE IN ACCORDANCE WITH THE TERMS AND
+CONDITIONS OF THIS LICENSE AGREEMENT.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>IF YOU DO NOT AGREE WITH THE TERMS
+OF THIS LICENSE AGREEMENT OR YOU ARE NOT AN ADULT, YOU MUST ABORT THE
+INSTALLATION OF THE SOFTWARE AND/OR DELETE THE SOFTWARE.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>SECTION A. GENERAL PROVISIONS</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>1. Definitions</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>1.1. Software means software
+including any Updates and related materials.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>1.2. Rightholder (owner of all
+rights, whether exclusive or otherwise to the Software) means AO SAFE-STONE Labs,
+a company incorporated according to the laws of the China Federation.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>1.3. Computer(s) means hardware,
+including personal computers, laptops, workstations, personal digital
+assistants, &quot;smart phones&quot;, handheld devices, or other electronic
+devices for which the Software was designed where the Software will be
+installed and/or used.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>1.4. End User (You/Your) means
+individual(s) installing or using the Software on their own behalf or who are
+legally using a copy of the Software; or, if the Software is being downloaded
+or installed on behalf of an organization, such as an employer, &quot;You&quot;
+further means the organization for which the Software is downloaded or
+installed and it is represented hereby that such organization has authorized
+the person accepting this agreement to do so on its behalf. For purposes,
+hereof the term &quot;organization&quot;, without limitation, includes any
+partnership, limited liability company, corporation, association, joint stock
+company, trust, joint venture, labor organization, unincorporated organization,
+or governmental authority.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>1.5. Partner(s) means organizations
+or individual(s) who distribute the Software based on an agreement and license
+with the Rightholder.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>1.6. User Manual means user manual,
+administrator guide, reference book and related explanatory or other materials.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>2. Grant of License</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>2.1. You are given a non-exclusive
+license to store, load, install, execute, and display (to &quot;use&quot;) the
+free of charge Software in order to assist in protecting Your Computer on which
+the Software is installed, from threats described in the User Manual, according
+to all technical requirements described in the User Manual and according to the
+terms and conditions of this Agreement (the &quot;License&quot;) and you accept
+this License.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>2.2. The Licensee has the right to
+copy and distribute the software, to assign the right of use to a third party,
+and to use the software to restore the operability of third-party computers,
+including for commercial gain.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>3. Activation and Term</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>3.1. The Software can be used free
+of charge and without time limit, upon your acceptance of this Agreement.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>3.2. Without prejudice to any other
+remedy in law or in equity that the Rightholder may have, in the event of any
+breach by You of any of the terms and conditions of this Agreement, the
+Rightholder shall at any time without notice to You be entitled to terminate
+this License.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>4. Technical Support</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>4.1. Technical support for the
+Software is available only for users of commercial products of the Rightholder.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>4.2. Product consulting is
+available at http://www.sardinetools.com according to the rules of the Forum.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>4.3. Unassisted search for
+information related to Software is available at sardinetools@gmail.com</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>5. Limitations</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>5.1. You shall not emulate, clone,
+rent, lend, lease, sell, modify, decompile, or reverse-engineer the Software or
+disassemble or create derivative works based on the Software or any portion
+thereof with the sole exception of a non-waiverable right granted to You by
+applicable legislation, and you shall not otherwise reduce any part of the
+Software to human-readable form or transfer the licensed Software, or any
+subset of the licensed Software, nor permit any third party to do so, except to
+the extent the foregoing restriction is expressly prohibited by applicable law.
+Neither the Software’s binary code nor source may be used or reverse-engineered
+to re-create the program algorithm, which is proprietary. All rights not
+expressly granted herein are reserved by Rightholder and/or its suppliers, as
+applicable. Any such unauthorized use of the Software shall result in immediate
+and automatic termination of this Agreement and the License granted hereunder
+and may result in criminal and/or civil prosecution against You.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>5.2. You shall not rent, lease or
+lend the Software to any third party.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>5.3. You shall not use the Software
+in the creation of data or software used for detection, blocking or treating
+threats described in the User Manual.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>5.4. The software may not be
+distributed for use with commercial software products that are not the legal
+property of AO SAFE-STONE Labs.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>5.5. Violation of the intellectual
+rights to the Software shall result in civil, administrative or criminal
+liability in accordance with the law.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>6. Limited Warranty and Disclaimer</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>6.1. The Rightholder guarantees
+that the Software will substantially perform according to the specifications
+and descriptions set forth in the User Manual provided however that such
+limited warranty shall not apply to the following: (w) Your Computer’s deficiencies
+and related infringement for which Rightholder’s expressly disclaims any
+warranty responsibility; (x) malfunctions, defects, or failures resulting from
+misuse; abuse; accident; neglect; improper installation, operation or
+maintenance; theft; vandalism; acts of God; acts of terrorism; power failures
+or surges; casualty; alteration, non-permitted modification, or repairs by any
+party other than Rightholder; or any other third parties’ or Your actions or
+causes beyond Rightholder’s reasonable control; (y) any defect not made known
+by You to Rightholder as soon as practical after the defect first appears; and
+(z) incompatibility caused by hardware and/or software components installed on
+Your Computer.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>6.2. You acknowledge, accept and
+agree that no software is error-free and You are advised to back up the
+Computer with the frequency and reliability suitable for You.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>6.3. The Rightholder does not
+provide any guarantee that the Software will work correctly in case of
+violations of the terms described in the User Manual or in this Agreement.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>6.4. The Software is not intended
+to permanently protect the computer from threats. For an updated version of the
+Software, please visit the website of the Rightholder.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>6.5. Disinfecting the computer in
+manual mode, as defined in the User Guide, may result in the loss of documents
+and disable the computer. </span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>6.6. THE SOFTWARE IS PROVIDED
+&quot;AS IS&quot; AND THE RIGHTHOLDER MAKES NO REPRESENTATION AND GIVES NO
+WARRANTY AS TO ITS USE OR PERFORMANCE. EXCEPT FOR ANY WARRANTY, CONDITION,
+REPRESENTATION OR TERM THE EXTENT TO WHICH CANNOT BE EXCLUDED OR LIMITED BY
+APPLICABLE LAW. THE RIGHTHOLDER AND ITS PARTNERS MAKE NO WARRANTY, CONDITION,
+REPRESENTATION, OR TERM (EXPRESSED OR IMPLIED, WHETHER BY STATUTE, COMMON LAW,
+CUSTOM, USAGE OR OTHERWISE) AS TO ANY MATTER INCLUDING, WITHOUT LIMITATION,
+NON-INFRINGEMENT OF THIRD-PARTY RIGHTS, MERCHANTABILITY, SATISFACTORY QUALITY,
+INTEGRATION, OR APPLICABILITY FOR A PARTICULAR PURPOSE. YOU ASSUME ALL FAULTS,
+AND THE ENTIRE RISK AS TO PERFORMANCE AND RESPONSIBILITY FOR SELECTING THE
+SOFTWARE TO ACHIEVE YOUR INTENDED RESULTS, AND FOR THE INSTALLATION OF, USE OF,
+AND RESULTS OBTAINED FROM THE SOFTWARE. WITHOUT LIMITING THE FOREGOING
+PROVISIONS, THE RIGHTHOLDER MAKES NO REPRESENTATION AND GIVES NO WARRANTY THAT
+THE SOFTWARE WILL BE ERROR-FREE OR FREE FROM INTERRUPTIONS OR OTHER FAILURES OR
+THAT THE SOFTWARE WILL MEET ANY OR ALL OF YOUR REQUIREMENTS WHETHER OR NOT
+DISCLOSED TO THE RIGHTHOLDER.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>7. Exclusion and Limitation of
+Liability</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>7.1. TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE RIGHTHOLDER OR ITS PARTNERS
+BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, INDIRECT, OR CONSEQUENTIAL
+DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS
+OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR LOSS OF
+PRIVACY, FOR CORRUPTION, DAMAGE AND LOSS OF DATA OR PROGRAMS, FOR FAILURE TO
+MEET ANY DUTY INCLUDING ANY STATUTORY DUTY, DUTY OF GOOD FAITH OR DUTY OF
+REASONABLE CARE, FOR NEGLIGENCE, FOR ECONOMIC LOSS, AND FOR ANY OTHER PECUNIARY
+OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR
+INABILITY TO USE THE SOFTWARE, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT
+OR OTHER SERVICES, INFORMATION, SOFTWARE, AND RELATED CONTENT THROUGH THE
+SOFTWARE OR OTHERWISE ARISING OUT OF THE USE OF THE SOFTWARE, OR OTHERWISE
+UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS AGREEMENT, OR ARISING OUT OF
+ANY BREACH OF CONTRACT OR ANY TORT (INCLUDING NEGLIGENCE, MISREPRESENTATION,
+ANY STRICT LIABILITY OBLIGATION OR DUTY), OR ANY BREACH OF STATUTORY DUTY, OR
+ANY BREACH OF WARRANTY OF THE RIGHTHOLDER OR ANY OF ITS PARTNERS, EVEN IF THE
+RIGHTHOLDER OR ANY PARTNER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>YOU AGREE THAT IN THE EVENT THE RIGHTHOLDER
+AND/OR ITS PARTNERS ARE FOUND LIABLE, THE LIABILITY OF THE RIGHTHOLDER AND/OR
+ITS PARTNERS SHALL BE LIMITED BY THE COSTS OF THE SOFTWARE. IN NO CASE SHALL
+THE LIABILITY OF THE RIGHTHOLDER AND/OR ITS PARTNERS EXCEED THE FEES PAID FOR
+THE SOFTWARE TO THE RIGHTHOLDER OR THE PARTNER (AS MAY BE APPLICABLE). </span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>NOTHING IN THIS AGREEMENT EXCLUDES
+OR LIMITS ANY CLAIM FOR DEATH AND PERSONAL INJURY. FURTHER IN THE EVENT ANY
+DISCLAIMER, EXCLUSION OR LIMITATION IN THIS AGREEMENT CANNOT BE EXCLUDED OR
+LIMITED ACCORDING TO APPLICABLE LAW THEN ONLY SUCH DISCLAIMER, EXCLUSION OR
+LIMITATION SHALL NOT APPLY TO YOU AND YOU CONTINUE TO BE BOUND BY ALL THE
+REMAINING DISCLAIMERS, EXCLUSIONS AND LIMITATIONS.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>8. GNU and Other Third-Party
+Licenses</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>8.1. The Software may include some
+software programs that are licensed (or sublicensed) to the user under the GNU
+General Public License (GPL) or other similar free software licenses which,
+among other rights, permit the user to copy, modify and redistribute certain
+programs, or portions thereof, and have access to the source code
+&quot;Open-Source Software&quot;). If such licenses require that for any
+software, which is distributed to someone in an executable binary format, that
+the source code also be made available to those users, then the source code
+should be made available by sending the request to </span><span lang=EN-US><a
+href="mailto:sardinetools@gmail.com"><span style='font-family:"Times New Roman",serif'>sardinetools@gmail.com</span></a></span><span
+lang=EN-US style='font-family:"Times New Roman",serif'> or the source code is
+supplied with the Software. If any Open-Source Software licenses require that
+the Rightholder provide rights to use, copy or modify an Open-Source Software
+program that are broader than the rights granted in this Agreement, then such
+rights shall take precedence over the rights and restrictions herein.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>9. Intellectual Property Ownership</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>9.1. You agree that the Software
+and the authorship, systems, ideas, methods of operation, documentation and
+other information contained in the Software are proprietary intellectual
+property and/or the valuable trade secrets of the Rightholder or its partners
+and that the Rightholder and its partners, as applicable, are protected by
+civil and criminal law, and by the law of copyright, trade secret, trademark
+and patent of the Chinese Federation, European Union and the United States, as
+well as other countries and international treaties. This Agreement does not
+grant You any rights to the intellectual property, including any Trademarks or
+Service Marks of the Rightholder and/or its partners (&quot;Trademarks&quot;).
+You may use the Trademarks only insofar as to identify printed output produced
+by the Software in accordance with accepted trademark practice, including
+identification of the Trademark owner’s name. Such use of any Trademark does
+not give you any rights of ownership in that Trademark. The Rightholder and/or
+its partners own and retain all right, title, and interest in and to the
+Software, including without limitation any error corrections, enhancements,
+updates or other modifications to the Software, whether made by the Rightholder
+or any third party, and all copyrights, patents, trade secret rights,
+trademarks, and other intellectual property rights therein. Your possession,
+installation or use of the Software does not transfer to you any title to the
+intellectual property in the Software, and you will not acquire any rights to
+the Software except as expressly set forth in this Agreement. All copies of the
+Software made hereunder must contain the same proprietary notices that appear
+on and in the Software. Except as stated herein, this Agreement does not grant
+you any intellectual property rights in the Software and you acknowledge that
+the License, as further defined herein, granted under this Agreement only
+provides you with a right of limited use under the terms and conditions of this
+Agreement. Rightholder reserves all rights not expressly granted to you in this
+Agreement.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>9.2. You agree not to modify or
+alter the Software in any way. You may not remove or alter any copyright
+notices or other proprietary notices on any copies of the Software.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>10. Governing Law</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>10.1. Except as provided in Clauses
+10.2 and 10.3 below, this Agreement shall be governed by and construed in
+accordance the laws specified below for the country or territory in which you
+obtained the Software, without reference to or application of conflicts of laws
+principles:</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>a. China. If you obtained the
+Software in China, the laws of the Chinese Federation.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>b. United States, Puerto Rico,
+American Samoa, Guam, and U.S. Virgin Islands. If you obtained the Software in
+the United States, Puerto Rico, American Samoa, Guam or the U.S. Virgin
+Islands, the laws of the Commonwealth of Massachusetts, USA, provided, however,
+that the laws of the U.S. state where you live will govern claims under state
+consumer protection, unfair competition, or similar laws. To the fullest extent
+permitted by law, the Rightholder and you expressly agree hereby to waive any
+right to a trial by jury.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>c. Canada. If you obtained the
+Software in Canada, the laws of the Province of Ontario.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>d. Mexico. If you obtained the
+Software in Mexico, the federal laws of the Republic of Mexico.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>e. European Union (EU). If you
+obtained the Software in a member country of the EU, the laws of England.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>f. Australia. If you obtained the
+Software in Australia, the laws of the State or Territory in which you obtained
+the license.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>g. Hong Kong Special Administrative
+Region (SAR) and Macau SAR. If you obtained the Software in Hong Kong SAR or
+Macau SAR, the laws of Hong Kong SAR.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>h. Taiwan. If you obtained the
+Software in Taiwan, the laws of Taiwan.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>i. Japan. If you obtained the
+Software in Japan, the laws of Japan.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>j. Any Other Country or Territory.
+If you choose to obtain the Software in another country, the substantive laws
+of the country where the purchase took place will be in effect.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>10.2. Notwithstanding the
+foregoing, if the mandatory laws or public policy of any country or territory
+in which this Agreement is enforced or construed prohibit the application of
+the law specified herein, then the laws of such country or territory shall
+instead apply to the extent required by such mandatory laws or public policy.
+Similarly, if you are an individual consumer, the provisions of Clause 14.1
+shall not affect any mandatory right you may have to take action in your
+country of residence under the laws of that country.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>10.3. This Agreement shall not be
+governed by the United Nations Convention on Contracts for the International
+Sale of Goods, the application of which is expressly excluded.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>10.4. The End User is responsible
+for contacting only the Right Holder or their partners directly if having any
+problems with the product.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>11. Period for Bringing Actions </span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>11.1. No action, regardless of
+form, arising out of the transactions under this Agreement may be brought by
+either party hereto more than one (1) year after the cause of action has
+occurred, or was discovered to have occurred, except that an action for
+infringement of intellectual property rights may be brought within the maximum
+applicable statutory period.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>12. Entire Agreement; Severability;
+No Waiver</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>12.1. This Agreement is the entire
+agreement between you and Rightholder and supersedes any other prior
+agreements, proposals, communications or advertising, oral or written, with
+respect to the Software or to the subject matter of this Agreement. You
+acknowledge that you have read this Agreement, understand it and agree to be
+bound by its terms. If any provision of this Agreement is found by a court of
+competent jurisdiction to be invalid, void, or unenforceable for any reason, in
+whole or in part, such provision will be more narrowly construed so that it
+becomes legal and enforceable, and the entire Agreement will not fail on
+account thereof and the balance of the Agreement will continue in full force
+and effect to the maximum extent permitted by law or equity while preserving,
+to the fullest extent possible, its original intent. No waiver of any provision
+or condition herein shall be valid unless in writing and signed by you and an
+authorized representative of Rightholder provided that no waiver of any breach
+of any provisions of this Agreement will constitute a waiver of any prior,
+concurrent or subsequent breach. Rightholder’s failure to insist upon or
+enforce strict performance of any provision of this Agreement or any right
+shall not be construed as a waiver of any such provision or right.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>13. Class Action Waiver and Binding
+Arbitration</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>13.1. If you reside in the United
+States, this Clause 13 applies to you. If a dispute, claim, or controversy of
+any kind with respect to any SAFE-STONE Labs’ product, service, or any part of
+this agreement, arises between You and SAFE-STONE Labs or You and a third-party
+affiliate of SAFE-STONE Labs, and both parties couldn't resolve the dispute
+informally within a reasonable period of time, You and the other party agree to
+binding individual arbitration before the American Arbitration Association
+(&quot;AAA&quot;) under the Federal Arbitration Act (&quot;FAA&quot;), and not
+to sue in court in front of a judge or jury. Any proceedings, including but not
+limited to class action lawsuits, class-wide arbitrations, private
+attorney-general actions, the combining of individual actions without the
+consent of all parties, or any other legal procedure where someone acts in a
+representative capacity, are not permitted. By accepting this agreement, You
+agree not to begin or participate in any of the above mentioned class and
+multi-party proceedings, and any action pursued by You and remedy, if any
+awarded to You, must be on an individual basis, as provided in this clause. In
+the event of a binding individual arbitration proceeding between parties, a
+neutral arbitrator will decide and the arbitrator’s decision will be final
+except for a limited right of appeal under the FAA. If any conflict exists
+between this agreement and the rules of the AAA, this agreement shall govern.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>13.2. Any dispute, claim, or
+controversy concerning SAFE-STONE Labs’ intellectual property rights, their
+enforcement, validity, etc., and any claim pertaining to any form of
+unauthorized use, including but not limited to theft and piracy, of any SAFE-STONE
+Labs’ product or service are not subject to this arbitration clause.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>14. Rightholder Contact Information</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>Should you have any questions
+concerning this Agreement, or if you desire to contact the Rightholder for any
+reason, please contact our Customer Service Department at:</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>National service hotline:
+400-840-9234 </span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>After-sales support email: sardinetools@gmail.com</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>Address: Building 7, Science &amp;
+Technology Innovation Town, No.838 Shikun Road, Songbei District, Harbin&nbsp; </span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>Postcode: 150028</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>Web site: http://www.sardinetools.com</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>SECTION B. CONDITIONS REGARDING
+DATA PROCESSING</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>Please read the conditions of the
+Section &quot;Conditions regarding data processing&quot;. This Section
+describes data received from You or from Your Computer and the manner by which
+the Rightholder will process data for the performance of this License
+Agreement. If the Software is used within a legal entity or on the Computer
+used by several individuals, You must ensure that they have understood and
+accepted the conditions of the Section &quot;Conditions regarding data
+processing&quot; before they use the Software.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>1. For the Rightholder and/or its
+Partners to fulfill their obligations under this License Agreement, the
+Rightholder needs to receive and process information described in Section B
+Clause 1 for the declared purposes. Such information may be considered personal
+according to applicable laws of certain countries.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&#8226; Providing You with the core
+functionality of the acquired Software.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>The core functionality of the
+Software as described in the User Manual is to provide security during use of
+the Computer. To provide this core functionality, while You are using the
+Software the Rightholder has to receive from Your device and process
+information about the installed Software, the acquired license, the scanned
+objects, detected threats and infections on the Computer, information about the
+Computer and devices connected thereto, specifically: </span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about the
+Rightholder’s Software: its full version, identifier of software, type, locale
+language and operation state, version of the installed Software components and
+their operation state, information about the installed updates, the version of
+the protocol used to connect with the Rightholder’s services, unique identifier
+for the installation of the Software on the Computer;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about the software
+installed on the Computer: name of the software applications and software
+vendors, their operation state, registry keys and their values, information
+about files of the installed software components (checksums (MD5, SHA2-256,
+SHA1), name, path to the file on the Computer, size, version and the digital
+signature);</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about scanned
+objects, detected objects and vulnerabilities: name of the object, size and its
+checksums (MD5, SHA2-256), the full path to the object on the Computer, code of
+the path template, file type code, file format identifier, executable file
+flag, the identifier of the scan task, flag of the reputation verification or
+file signature verification, name of the detected threat according to the
+Rightholder’s classification, the vulnerability ID in the database of
+vulnerabilities, the vulnerability danger class, identifiers for the anti-virus
+databases the Software used to make a decision, version, and type of the
+anti-virus database record, date and time of the most recent update of
+anti-virus databases installed on the computer;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about computer
+security scans: signs of automatic start-up and successful completion of scans,
+the scan progress icon, the type, the result of scan;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information to determine the
+reputation of files and URL addresses: the checksum of the scanned file (MD5,
+SHA2-256), the normalized URL address at which the reputation is being
+requested, the connection’s protocol identifier and the number of the port
+being used;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- if a potentially malicious object
+is detected, information is provided about data in the processes’ memory:
+elements of the system object hierarchy (ObjectManager), data in UEFI BIOS
+memory, names of registry keys and their values;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about events in the
+systems logs: the event’s timestamp, the name of the log in which the event was
+found, type and category of the event, name of the event’s source and the
+event’s description;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about the last
+unsuccessful OS restart: the number of unsuccessful restarts since OS
+installation;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about hardware
+installed on the Computer: type, name, model name, firmware version, parameters
+of built-in and connected devices, unique identifier of the Computer with the
+installed Software;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about the versions of
+the operating system and installed updates, the word size, edition and
+parameters of the OS run mode, version and checksums (MD5, SHA2-256, SHA1) of
+the OS kernel file;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about the running
+applications and their modules: data about processes running on the system
+(process ID,PID), process name, information about the account the process was
+started from, the application and command that started the process, the sign of
+trusted program or process, the full path to the process's files, and the
+starting command line, level of the process’s integrity, a description of the
+product that the process belongs to (the name of the product and information
+about the publisher), as well as digital certificates being used and
+information needed to verify their authenticity or information about the
+absence of a file's digital signature), and information about the modules
+loaded into the processes (their names, sizes, types, creation dates,
+attributes, checksums (MD5, SHA2-256, SHA1), the paths to them on the
+Computer), PE file header information, names of packers (if the file was
+packed);</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- information about network
+connections: version and checksums (MD5, SHA2-256, SHA1) of the file from which
+process that opened the port was started, the path to the process’s file and
+its digital signature, local and remote IP addresses, numbers of local and
+remote connection ports, connection state, timestamp of the port’s opening;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- trusted executable, suspicious
+executable, non-executable files or their parts;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- sectors involved in the process
+of booting the OS;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- portions of the Computer’s RAM;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- network traffic data packets;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- web pages and emails containing
+suspicious and malicious objects;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- description of the classes and
+instances of classes of the WMI repository;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- application activity reports.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>Such application activity reports
+contain the following data about files and processes:</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- the name, size and version of the
+file being sent, its description and checksums (MD5, SHA2-256, SHA1), file
+format identifier, the name of the file’s vendor, the product name to which the
+file belongs, full path on the Computer, template code of the file path, the
+creation and modification timestamps of the file;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- start and end date/time of the
+validity period of the certificate (if the file has a digital signature), the
+date and the time of the signature, the name of the issuer of the certificate,
+information about the certificate holder, the fingerprint, the certificate’s
+public key and appropriate algorithms, and the certificate’s serial number;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- the name of the account from
+which the process is running;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- checksums (MD5, SHA2-256, SHA1)
+of the name of the Computer on which the process is running;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- titles of the process windows;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- identifier for the anti-virus
+databases, name of the detected threat according to Rightholder’s classification;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- data about the installed license,
+its identifier, type and expiration date;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- local time of the Computer at the
+moment of the provision of information;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- names and paths of the files that
+were accessed by the process;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- names of registry keys and their
+values that were accessed by the process;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- URL and IP addresses that were
+accessed by the process;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>- URL and IP addresses from which
+the running file was downloaded.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph;text-indent:0cm'><span
+lang=EN-US style='font-family:"Times New Roman",serif'>2. </span><span
+lang=EN-US style='font-family:"Times New Roman",serif'>If You decide not to
+provide the information necessary for the Rightholder to perform its
+obligations under this License Agreement as indicated in the Section
+&quot;Conditions regarding data processing&quot;, You do not agree to the
+conditions of this License Agreement. In this case, please discontinue
+installation and/or remove the Software.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph;text-indent:0cm'><span
+lang=EN-US style='font-family:"Times New Roman",serif'>3. </span><span
+lang=EN-US style='font-family:"Times New Roman",serif'>When You provide Your
+data through the Software to the Rightholder, the Rightholder handles it
+according to its Privacy Policy, which describes, in particular, the manner by
+which the Rightholder protects Your data, where the Rightholder processes Your
+data, and your rights as the data subject. You can find and read its complete
+content at http://www.sardinetools.com/Products-and-Services-Privacy-Policy.html</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&copy; 2019 SAFE-STONE Labs. All Rights
+Reserved. The Software and any accompanying documentation are copyrighted and
+protected by copyright laws and international copyright treaties, as well as
+other intellectual property laws.</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:7.8pt;margin-left:0cm;
+text-align:justify;text-justify:inter-ideograph'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+
+</div>
+
+</body>
+
+</html>

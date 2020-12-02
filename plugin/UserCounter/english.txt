@@ -1,0 +1,5 @@
+dll=counter.dll
+author=Simpower
+description=user counter, enable it can help us improve the product.
+weight=1
+gui=
