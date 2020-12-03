@@ -1,1 +1,6 @@
-UserCounter=1
+logManger=0
+geolocation=0
+pythonEngin=0
+PluginTemp=0
+PASUnion=0
+UserCounter=0

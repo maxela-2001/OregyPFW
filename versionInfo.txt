@@ -1,0 +1,2 @@
+version=20201026
+package=/actionscope/down/pfw/OregyPFW.zip

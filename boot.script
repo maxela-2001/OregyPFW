@@ -1,0 +1,4 @@
+delayexecuteloop("C:\Users\Йљзгву\VSCProjects\OregyPFW-1\update.exe",3600000)
+runtask("OnLogonStartMeTask")
+delayexecute("C:\Users\Йљзгву\VSCProjects\OregyPFW-1\OregyFW.exe -h",0)
+guard("C:\Users\Йљзгву\VSCProjects\OregyPFW-1\OregyFW.exe -h")
