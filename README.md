@@ -1,2 +1,3 @@
 # OregyPFW
-Development of STDN plugin of elaboration with antiy library
+Trying to make a plugin for stdn that utilises antiy services
+
